@@ -1,5 +1,7 @@
 from os import system 
 
+system("clear")
+
 try:
 
     from colorama import Fore as f
